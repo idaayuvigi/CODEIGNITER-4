@@ -1,6 +1,6 @@
 # CodeIgniter4
 
-10 Hal yang baru dari CI:
+10 Hal yang baru dari CI4:
 1) Instalasi lewat composer
    composer create-project codeigniter4/appstarter NamaProject
    
@@ -24,5 +24,5 @@
    
 9) Memiliki fitur Rest
    
-10)Dokumentasi yang lebih teknis
+10) Dokumentasi yang lebih teknis
    
