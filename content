@@ -1,11 +1,8 @@
-hhhhhh
-iiiiii
-gggggg
-jjjjjj
-kkkkkk
+//Cara instal CI4
+composer create-project codeigniter4/appstarter project-root
 
-hhhhhhhhhhhhhe
+//Cara jalankan di browser
+php spark serve
 
-
-coba fitur 1
-
+//Untuk buka project di VScode
+code  .
